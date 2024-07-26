@@ -1,0 +1,4 @@
+name: TabHider
+version: '${project.version}'
+main: org.w8o.main
+api-version: '1.19'

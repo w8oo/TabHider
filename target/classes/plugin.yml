@@ -1,0 +1,4 @@
+name: TabHider
+version: '1.0-SNAPSHOT'
+main: org.w8o.main
+api-version: '1.19'
